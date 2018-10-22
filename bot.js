@@ -237,7 +237,7 @@ function play(guild, song) {
  //.then(message =>{message.delete(2000)})
  
 })
-})..
+})
 }
 });
 client.on('message', message => {
